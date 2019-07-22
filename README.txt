@@ -13,4 +13,5 @@ NOTES:
     3./ Launch Order:
         - Download (https://www.rabbitmq.com/download.html) & Launch Rabbit Message Broker Server
         - Launch Rabbit Producer
+        - Launch MySQL DB
         - Launch Rabbit Consumer
